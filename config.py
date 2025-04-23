@@ -1,0 +1,18 @@
+# Feature Toggles
+USE_FACE_MESH = True
+USE_HUD = True
+
+# Filter Toggles
+ENABLE_GLASSES = False
+ENABLE_MUSTACHE = False
+
+# Webcam / Camera Settings
+CAMERA_INDEX = 1
+FRAME_WIDTH = 640
+FRAME_HEIGHT = 480
+
+# Mediapipe Settings
+MAX_NUM_FACES = 1
+DETECTION_CONFIDENCE = 0.5
+TRACKING_CONFIDENCE = 0.5
+REINITIALIZE_CAMERA = False
