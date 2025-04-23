@@ -2,8 +2,6 @@
 
 A real-time augmented reality filter application built with Python, OpenCV, and MediaPipe. This application allows users to apply virtual accessories like glasses and mustaches to faces detected through a webcam feed.
 
-![AR Filter Demo](https://via.placeholder.com/800x450.png?text=AR+Filter+Demo)
-
 ## Features
 
 - Real-time face tracking using MediaPipe's Face Mesh
